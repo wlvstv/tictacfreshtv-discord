@@ -45,7 +45,7 @@
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp",
-    "start": "node ./lib/tictacfreshDiscord.js"
+    "start": "node ./lib/tictac.js"
   },
   "dependencies": {
     "discord.js":"latest"
